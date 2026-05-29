@@ -1,21 +1,12 @@
 # Day 02 Lab — Tìm Đúng Bài Toán Cho AI
 
+## MSV: 2A202600838 
+## Tên: Nguyễn Đức Thành
+
 > Từ vấn đề thật quanh mình → workflow rõ → Problem Statement đủ chặt → chọn Rule / Workflow / Agent → quyết định Go / Not Yet / No-Go.
 
 ## Tài liệu trong folder này
 
-Folder này chỉ giữ các file cần thiết:
-
-| File | Dùng để làm gì |
-|---|---|
-| `01-worksheet.md` | File hướng dẫn chính cho toàn bộ lab 4 tiếng. Bộ gợi ý, hướng dẫn công cụ, prompt và checklist tự kiểm đã được tích hợp trực tiếp vào từng phase. |
-| `02-deliverable-example.md` | Ví dụ bài nộp hoàn chỉnh để học viên nhìn được output cuối cùng trông như thế nào. |
-
-## Cấu trúc repo nộp bài
-
-Mỗi học viên nộp **một repo cá nhân**:
-
-```text
 Day02-MãHọcViên-HọVàTên/
 ├── README.md
 ├── 01-individual-problem-scan/
@@ -29,19 +20,13 @@ Trong đó:
 - `02-group-problem-statement/`: **bản nộp nhóm**. Nhóm 3-4 người làm chung một bản gồm nhật ký hội tụ, kiểm chứng/research, Problem Statement, Rule / Workflow / Agent, quyết định cuối, workflow trước/sau. Mỗi học viên copy bản cuối vào repo cá nhân của mình.
 - `03-individual-reflection/`: reflection cá nhân về AI, vai trò trong nhóm, và bài học sau lab.
 
-Nếu có file phụ như ảnh workflow, Mermaid, survey screenshot, research notes, đặt cùng prefix với phần liên quan:
+file phụ như ảnh workflow, Mermaid, survey screenshot, research notes, đặt cùng prefix với phần liên quan:
 
 ```text
 01-individual-problem-scan-workflow-card-1.png
 02-group-problem-statement-workflow.pdf
 02-group-problem-statement-research-notes.md
 ```
-
-## Đọc file nào để làm gì?
-
-1. Mở `02-deliverable-example.md` trước để nhìn một bản nộp tốt trông như thế nào.
-2. Làm theo `01-worksheet.md` từ Phase 1 đến Phase 7. Worksheet là hướng dẫn suy nghĩ theo từng bước, không chỉ là form để điền.
-3. Khi nộp, repo cá nhân cần có đủ 3 phần: problem scan cá nhân, bản nộp nhóm, reflection cá nhân.
 
 ## Tiêu chí đánh giá (100 điểm)
 
@@ -100,13 +85,5 @@ Phase 6  Rule/Workflow/Agent + Decision   25'
 Phase 7  Individual Reflection            15'
 ```
 
-## Điều quan trọng nhất
-
-- Nhóm **không chọn Problem Statement ngay**. Nhóm chọn một **candidate problem** để đào sâu.
-- Problem Statement chỉ được viết sau khi đã validate, research, vẽ workflow và làm metric rõ hơn.
-- Rule không kém Agent. Nếu Rule hoặc Workflow giải đúng bài toán với ít rủi ro hơn, đó là lựa chọn tốt.
-- AI chỉ hỗ trợ tư duy. Người học vẫn phải tự kiểm nguồn, tự chốt lập luận, tự chịu trách nhiệm với quyết định.
-
----
 
 *Day 02 Lab v2 — Batch 02*
