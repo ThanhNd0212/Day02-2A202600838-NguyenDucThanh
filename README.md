@@ -1,7 +1,7 @@
 # Day 02 Lab — Tìm Đúng Bài Toán Cho AI
 
 ## MSV: 2A202600838 
-## Tên: Nguyễn Đức Thành
+## Tên: Nguyễn Đức Thành - Nhóm 13
 
 > Từ vấn đề thật quanh mình → workflow rõ → Problem Statement đủ chặt → chọn Rule / Workflow / Agent → quyết định Go / Not Yet / No-Go.
 
